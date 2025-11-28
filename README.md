@@ -1,6 +1,6 @@
 # Aweh, I'm Thorn 😉
 
-Frontend Developer with 5+ years of experience building fast, reliable, and user-focused interfaces. I work mostly with React, Next.js, Angular, and TypeScript, and I enjoy turning complex UI ideas into clean, scalable products.
+Self-Taught Frontend Developer with 5+ years of experience building fast, reliable, and user-focused interfaces. I work mostly with React, Next.js, Angular, and TypeScript, and I enjoy turning complex UI ideas into clean, scalable products.
 
 I’m big on performance, design systems, and writing code that's easy to maintain.
 
@@ -46,7 +46,6 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 - Full Stack workflows  
 - Tailwind-based design systems  
 - PostgreSQL and backend integration  
-- Crafting smoother animations with Framer Motion  
 
 ---
 
