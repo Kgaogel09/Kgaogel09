@@ -6,7 +6,7 @@ Passionate about performance optimization, design systems, and writing maintaina
 
 In a nutshell: I bring digital experiences to life with clean code and pixel-perfect execution.
 
-![Thorn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kgaogel09&theme=vue-dark&hide_border=true)
+![Thorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kgaogel09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogel09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
