@@ -13,7 +13,7 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 ## 🧰 Tech Stack
 
 **Languages**  
-JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
 React, Next.js, Angular, Ionic, jQuery, WordPress  
