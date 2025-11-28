@@ -13,8 +13,9 @@ I’m big on performance, design systems, and writing code that's easy to mainta
 - Build high-performance interfaces that meet and exceed Core Web Vitals  
 - Develop scalable UI systems with React, Next.js, Angular, and TypeScript  
 - Translate Figma and design-system work into smooth, production-ready experiences  
-- Integrate REST APIs and create a data-driven front-end architecture  
-- Ship projects used by well-known brands like Coca-Cola Beverages Africa, Capfin, Mazadak, Woolworths Taste, Tracker, OKgo, Media24 Advertising, and more  
+- Integrate REST APIs and create a data-driven front-end architecture
+
+In a nutshell, I bring digital experiences to life, focusing on clean code and pixel-perfect execution.
 
 ---
 
