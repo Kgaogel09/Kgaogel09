@@ -53,5 +53,5 @@ Tailwind CSS, Bootstrap, Styled-components, Framer Motion, Material UI, Angular 
 ## 🤓 Fun fact: I discovered the true power of JavaScript
 ```javascript
 // What came first: The chicken or the egg?
-const coffee = "water".replace("🚰", "☕️")
+const coffee = "🚰".replace("🚰", "☕️")
 console.log(☕️) // magic ✨ 
