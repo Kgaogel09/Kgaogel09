@@ -15,13 +15,20 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 **Languages**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=css)
-![SCSS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=scss)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTLM5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 
 **Frameworks & Libraries**  
-React, Next.js, Angular, Ionic, jQuery, WordPress  
+React, Next.js, Angular, Ionic, jQuery, WordPress 
+
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/-Next-222222?style=flat&logo=Next&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Wordpress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=wordpress&logoColor=0769AD)
 
 **Styling & UI**  
 Tailwind CSS, Bootstrap, Styled-components, Framer Motion, Material UI, Angular Material, Ant Design  
