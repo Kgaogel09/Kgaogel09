@@ -21,7 +21,6 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 
 **Frameworks & Libraries**  
-React, Next.js, Angular, Ionic, jQuery, WordPress 
 
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/-Next-222222?style=flat&logo=Next&logoColor=61DAFB)
@@ -31,7 +30,12 @@ React, Next.js, Angular, Ionic, jQuery, WordPress
 ![Wordpress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=wordpress&logoColor=0769AD)
 
 **Styling & UI**  
-Tailwind CSS, Bootstrap, Styled-components, Framer Motion, Material UI, Angular Material, Ant Design  
+
+![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=Tailwind&logoColor=61DAFB)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap&logoColor=000000)](https://github.com/gorhill/uBlock)
+![Styled-components](https://img.shields.io/badge/-styled-components-222222?style=flat&logo=styled-components&logoColor=61DAFB)
+![Material-ui](https://img.shields.io/badge/-Material-ui-222222?style=flat&logo=Material-ui&logoColor=61DAFB)
+![Ant](https://img.shields.io/badge/-Ant-222222?style=flat&logo=Ant&logoColor=61DAFB)
 
 ---
 
