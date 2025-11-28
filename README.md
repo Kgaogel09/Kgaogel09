@@ -31,12 +31,12 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 
 **Styling & UI**  
 
-![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=Tailwind&logoColor=61DAFB)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap&logoColor=000000)](https://github.com/gorhill/uBlock)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-444444?style=flat&logo=tailwind&logoColor=000000)](https://github.com/gorhill/uBlock)
-![Styled-components](https://img.shields.io/badge/-styled-components-222222?style=flat&logo=styled-components&logoColor=61DAFB)
-![Material-ui](https://img.shields.io/badge/-Material-ui-222222?style=flat&logo=Material-ui&logoColor=61DAFB)
-![Ant](https://img.shields.io/badge/-Ant-222222?style=flat&logo=Ant&logoColor=61DAFB)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white)](https://mui.com/)
+[![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white)](https://ant.design/)
+
 
 ---
 
