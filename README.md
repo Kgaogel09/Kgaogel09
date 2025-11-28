@@ -1,12 +1,14 @@
 # Aweh, I'm Thorn 😉
 
-Self-Taught Frontend Developer with 5+ years of experience building fast, reliable, and user-focused interfaces. I work mostly with React, Next.js, Angular, and TypeScript, and I enjoy turning complex UI ideas into clean, scalable products.
+Frontend Developer with 5+ years of experience building fast, reliable, and user-focused interfaces. Specializing in React, Next.js, Angular, and TypeScript, I transform complex UI ideas into clean, scalable products.
 
-I’m big on performance, design systems, and writing code that's easy to maintain.
+Passionate about performance optimization, design systems, and writing maintainable code that stands the test of time.
 
-In a nutshell, I bring digital experiences to life, focusing on clean code and pixel-perfect execution.
+In a nutshell: I bring digital experiences to life with clean code and pixel-perfect execution.
 
 ![Thorn's Stats](https://github-readme-stats.vercel.app/api?username=Kgaogel09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Thorn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kgaogel09&theme=vue-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogel09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
@@ -37,28 +39,30 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 [![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white)](https://ant.design/)
 
-
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced React patterns  
-- Full Stack workflows  
-- Tailwind-based design systems  
-- PostgreSQL and backend integration  
+- **Advanced React Patterns** (Compound Components, State Machines)
+- **Full-Stack Development** (Next.js API routes, Server Components)
+- **Tailwind CSS** Design Systems & Component Libraries
+- **Backend Integration** with PostgreSQL & Prisma
+- **Performance Optimization** (Core Web Vitals, Bundle Analysis)
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://thorn-manganye.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgaogelothorn/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kgaogel09)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kgaogelothorn@gmail.com)
 
 ---
 
-## 🤓 Fun fact: I discovered the true power of JavaScript
+## 🤓 Fun fact: I turn complex problems into elegant solutions
 ```javascript
-// Turning water into coffee
-const coffee = "🚰".replace("🚰", "☕️")
-console.log(☕️) // magic ✨ 
+// Transforming UI challenges into clean code
+const challenge = "💡 Complex Design Problem";
+const solution = challenge.split("").reverse().join("").replace("💡", "✨"); 
+console.log(solution); // "✨ Elegant Frontend Solution"
