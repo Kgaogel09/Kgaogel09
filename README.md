@@ -13,7 +13,12 @@ In a nutshell, I bring digital experiences to life, focusing on clean code and p
 ## 🧰 Tech Stack
 
 **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,)](https://skillicons.dev)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=css)
+![SCSS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=scss)
 
 **Frameworks & Libraries**  
 React, Next.js, Angular, Ionic, jQuery, WordPress  
