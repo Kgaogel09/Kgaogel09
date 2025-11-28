@@ -1,4 +1,4 @@
-# Hi, I'm Kgaogelo Thorn Manganye 👋  
+# Aweh, I'm Thorn 😉
 
 Frontend Developer with 5+ years of experience building fast, reliable, and user-focused interfaces. I work mostly with React, Next.js, Angular, and TypeScript, and I enjoy turning complex UI ideas into clean, scalable products.
 
@@ -28,30 +28,6 @@ React, Next.js, Angular, Ionic, jQuery, WordPress
 
 **Styling & UI**  
 Tailwind CSS, Bootstrap, Styled-components, Framer Motion, Material UI, Angular Material, Ant Design  
-
----
-
-## 📌 Experience Highlights
-
-### **Frontend Developer — Swipe iX (2021–Present)**  
-- Improved Core Web Vitals by 35% across multiple products  
-- Built reusable, scalable UI components that cut dev time by 20%  
-- Led CSS migration to modular SCSS + Tailwind across 10+ projects  
-- Delivered successful launches for major brands with zero critical bugs  
-- Created high-traffic WordPress sites for leading South African brands  
-- Strong collaborator in agile teams with 95%+ sprint delivery consistency  
-
-### **Frontend Developer — Striata / Doxim (2019–2021)**  
-- Engineered responsive web and email platforms for enterprise clients  
-- Turned Sketch/Figma/Photoshop designs into pixel-perfect interfaces  
-- Reduced cross-device rendering issues by 30%  
-- Improved internal codebases and helped shorten QA cycles by 25%  
-- Mentored junior developers on Git workflows and CSS architecture  
-
-### **Web Developer — Neotech (2018–2019)**  
-- Built Angular 2+ applications for fast-paced client projects  
-- Created a component library that reduced repetitive code by 40%  
-- Delivered several client apps with zero critical bugs at launch  
 
 ---
 
