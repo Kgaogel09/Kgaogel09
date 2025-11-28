@@ -42,15 +42,16 @@ Tailwind CSS, Bootstrap, Styled-components, Framer Motion, Material UI, Angular 
 
 ---
 
-## 🏆 Notables
-
-- Hacktoberfest 2023 finisher  
-- Multiple Udemy certifications in React, Ionic, JavaScript, and more  
-
----
-
 ## 📬 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/kgaogelothorn/  
 - **GitHub:** https://github.com/Kgaogel09  
 - **Email:** kgaogelothorn@gmail.com  
+
+---
+
+## 🤓 Fun fact: I discovered the true power of JavaScript
+```javascript
+// What came first: The chicken or the egg?
+const coffee = "water".replace("🚰", "☕️")
+console.log(☕️) // magic ✨ 
